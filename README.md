@@ -37,11 +37,11 @@ This is a number guessing game where the player has to guess a randomly selected
 
 ## Project - 2: Find Maximum and Minimum Number 
 ## Descriptive:
-Finding  Maximum and Minimum  Numbers, Where the user will enter the 3 numbers, within the 3 Numbers which one is Maximum and Minimum  going to Finds
+Finding  Maximum and Minimum numbers, Where the user enter the 3 numbers, within the 3 Numbers which one is Maximum and Minimum.
 
 ### Algorithm:
 
-1. Ask to 'Enter 3 number' for Better understanding purpose we Assume that suppose ( A, B, C ).
+1. Ask to Enter 3 number Assume that ( A, B, C ).
     - Display A value:
 
     - Display B value:
@@ -63,9 +63,9 @@ Finding  Maximum and Minimum  Numbers, Where the user will enter the 3 numbers, 
     - If(a<b) AND (a<c) then display Minimum value is 'A'.
     - elif (b<a) AND (b<c) then display Minimum value is 'B'.
     - else display Minimum value is 'C'.
+4. Special Case is occured, When user entered twice the same number suppose A=33, B=33, C=45. 'It Display the Maximum : 45 ,Two Number are equal 33,33'.
 
-5. Special Case is occured, When user entered twice the same number suppose A=33, B=33, C=45. 'It Display the Maximum : 45 ,Two Number are equal 33,33'.
-
+5. Sample Images: 
 <img width="948" height="503" alt="Screenshot 2025-08-14 075734" src="https://github.com/user-attachments/assets/043ffb2e-9e45-4ef9-aa75-991a75f34583" />
 
 <img width="953" height="489" alt="Screenshot 2025-08-14 080510" src="https://github.com/user-attachments/assets/0143d59b-b904-40ff-b727-ccf50372d518" />
