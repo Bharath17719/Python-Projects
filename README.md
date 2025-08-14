@@ -53,11 +53,13 @@ Finding  Maximum and Minimum  Numbers, Where the user will enter the 3 numbers, 
 3. It compares  Entered 3 values using the AND operator.
  
   To Display Maximum Number:
+  
     - If(a>b) AND (a>c) then display Maximum value is 'A'.
     - elif (b>a) AND (b>c) then display Maximum value is 'B'.
     - else display Maximum value is 'C'.
     
   To Display Minimum Number:
+  
     - If(a<b) AND (a<c) then display Minimum value is 'A'.
     - elif (b<a) AND (b<c) then display Minimum value is 'B'.
     - else display Minimum value is 'C'.
