@@ -92,22 +92,22 @@ This is a Rock Paper Scissor Game where the one player has to play and opponent 
     - 1 -Rock 
     - 2 -Paper 
     - 3 -Scissors
-4. Ask to enter your choice: Select the Number is 1,2,3.
+3. Ask to enter your choice: Select the Number is 1,2,3.
 
-6. Enter your choice: 1
+4. Enter your choice: 1
    User choice is: Rock
    
-8. Now it's Computer's Turn...
+5. Now it's Computer's Turn...
    Computer choice is: Paper
    Rock vs Paper
    <== Computer wins! ==>
 
-9. Do you want to play again? (Y/N)
+6. Do you want to play again? (Y/N)
     
 ### NOTE:
     - In this game, randint() inbuilt function is used for generating random integer values within the given range.
     
-10. Sample Image:
+7. Sample Image:
 <img width="942" height="856" alt="Screenshot 2025-08-16 215251" src="https://github.com/user-attachments/assets/75d3c407-da45-401d-9736-810bf40d8b2a" />
 
 
