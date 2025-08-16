@@ -73,7 +73,7 @@ Finding  Maximum and Minimum numbers, Where the user enter the 3 numbers, within
 
 
 
-## Project - 1: Rock Paper Scissor Game
+## Project - 3: Rock Paper Scissor Game
 ### Description: 
 This is a Rock Paper Scissor Game where the one player has to play and opponent computer. Additionaly number of time to play Game.
 
