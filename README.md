@@ -73,6 +73,48 @@ Finding  Maximum and Minimum numbers, Where the user enter the 3 numbers, within
 
 
 
+## Project - 1: Rock Paper Scissor Game
+### Description: 
+This is a Rock Paper Scissor Game where the one player has to play and opponent computer. Additionaly number of time to play Game.
+
+### Algorithm:
+
+1. Winning rules of the game ROCK PAPER SCISSORS are:
+    - Rock vs Paper -> Paper wins
+       
+    - Rock vs Scissors -> Rock wins
+    
+    - Paper vs Scissors -> Scissors wins
+
+2. It display in screen is :
+
+    - Enter your choice
+    - 1 -Rock 
+    - 2 -Paper 
+    - 3 -Scissors
+4. Ask to enter your choice: Select the Number is 1,2,3.
+
+6. Enter your choice: 1
+   User choice is: Rock
+   
+8. Now it's Computer's Turn...
+   Computer choice is: Paper
+   Rock vs Paper
+   <== Computer wins! ==>
+
+9. Do you want to play again? (Y/N)
+    
+### NOTE:
+    - In this game, randint() inbuilt function is used for generating random integer values within the given range.
+    
+10. Sample Image:
+<img width="942" height="856" alt="Screenshot 2025-08-16 215251" src="https://github.com/user-attachments/assets/75d3c407-da45-401d-9736-810bf40d8b2a" />
+
+
+
+
+
+
 
 
 
