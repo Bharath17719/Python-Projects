@@ -133,17 +133,33 @@ Body Mass Index (BMI) is a widely used indicator to assess a person’s body wei
     - Overweight: BMI between 25 and 29.9
     - Obesity: BMI of 30 or greater
 
-6. Sample images:
+6. Sample image:
 <img width="977" height="418" alt="Screenshot 2025-08-24 165354" src="https://github.com/user-attachments/assets/9a8b0116-ee9b-4421-bce5-00ad768e57ee" />
 
 
+## Project - 5: Water_Jug_Problem 
+### Description:
+Water_Jug_Problem is involed in the Artificial Intelligence. In its classic version, the problem involves two jugs, each with a different capacity.The goal is to measure a specific amount of water using these jugs while adhering to certain rules and constraints.
+
+Let's take a simple example to illustrate the classic Water Jug Problem: You have a 3-liter jug and a 5-liter jug. The task is to measure exactly 4 liters of water.
 
 
+### Algorithm:
 
+1. It is game, It has limited time (timer) to end the game, only one player has to play game.
 
+2. Consider a scenario where you have a 3-liter jug and a 5-liter jug, and you need to measure precisely 4 liters of water.
 
+3. Visualize the scenario by imagining the two jugs and a water source to fill them.
 
+4. The challenge here is to determine a sequence of actions that will allow you to reach the desired measurement of 4 liters, taking into account the constraints and capacities of the jugs.
 
+5. 'import timer' has involed it has Time left  600sec
+
+6.Sample image:
+<img width="908" height="1026" alt="Screenshot 2025-08-24 172023" src="https://github.com/user-attachments/assets/958f4b0a-d2f5-49eb-ac4b-0c146de007e1" />
+<img width="796" height="1032" alt="Screenshot 2025-08-24 172042" src="https://github.com/user-attachments/assets/5605fe9e-3c91-474f-b3a8-e3005f64b770" />
+<img width="808" height="1039" alt="Screenshot 2025-08-24 172101" src="https://github.com/user-attachments/assets/c9a64498-2c00-49bb-bb4e-242c76c3f30f" />
 
 
 
