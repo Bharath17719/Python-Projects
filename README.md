@@ -119,10 +119,23 @@ Body Mass Index (BMI) is a widely used indicator to assess a person’s body wei
 ### Algorithm:
 
 1. BMI Formula:
-   BMI = <u>weight(kg)<u>
-            {height(m)}**2
-            
-   
+   BMI = weight(kg)/{height(m)}**2
+
+2. User has to  'enter your weight in kilogram:
+
+3. User has to  'enter your height in meters:
+
+4. Then, Display the 'your BMI is:_____'
+
+5. BMi is diaplay has types of weights
+    - Underweight: BMI less than 18.5
+    - Normal weight: BMI between 18.5 and 24.9
+    - Overweight: BMI between 25 and 29.9
+    - Obesity: BMI of 30 or greater
+
+6. Sample images:
+<img width="977" height="418" alt="Screenshot 2025-08-24 165354" src="https://github.com/user-attachments/assets/9a8b0116-ee9b-4421-bce5-00ad768e57ee" />
+
 
 
 
