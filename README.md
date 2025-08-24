@@ -111,6 +111,20 @@ This is a Rock Paper Scissor Game where the one player has to play and opponent 
 <img width="942" height="856" alt="Screenshot 2025-08-16 215251" src="https://github.com/user-attachments/assets/75d3c407-da45-401d-9736-810bf40d8b2a" />
 
 
+## Project - 4: BMI Calculator
+### Description:
+Body Mass Index (BMI) is a widely used indicator to assess a person’s body weight in relation to their height. It’s a simple yet effective way to determine whether someone is underweight, normal weight, overweight, or obese.
+
+
+### Algorithm:
+
+1. BMI Formula:
+   BMI = <u>weight(kg)<u>
+            {height(m)}**2
+            
+   
+
+
 
 
 
