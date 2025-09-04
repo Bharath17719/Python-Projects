@@ -187,6 +187,9 @@ A Password Generator is a tool that creates strong, random, and secure passwords
 6. Ensure the generated password contains at least one uppercase, one lowercase, one digit, and one special character (if required).
     - If not, regenerate or replace characters accordingly.
 
+NOTE: Why use secrets instead of random?
+The random module is good for simulations, games, and sampling, but it’s not secure for passwords, tokens, or cryptography because its randomness can be guessed or reproduced.
+
 7. Sample image:
 <img width="873" height="328" alt="Screenshot 2025-09-04 213920" src="https://github.com/user-attachments/assets/5a9157a4-8a28-43d3-a69b-24375dcd16e9" />
 
