@@ -188,6 +188,7 @@ A Password Generator is a tool that creates strong, random, and secure passwords
     - If not, regenerate or replace characters accordingly.
 
 NOTE: Why use secrets instead of random?
+
 The random module is good for simulations, games, and sampling, but it’s not secure for passwords, tokens, or cryptography because its randomness can be guessed or reproduced.
 
 7. Sample image:
