@@ -162,4 +162,34 @@ Let's take a simple example to illustrate the classic Water Jug Problem: You hav
 <img width="808" height="1039" alt="Screenshot 2025-08-24 172101" src="https://github.com/user-attachments/assets/c9a64498-2c00-49bb-bb4e-242c76c3f30f" />
 
 
+## Project - 6: Password_generator
+### Description:
+A Password Generator is a tool that creates strong, random, and secure passwords to help protect your online accounts and sensitive data. Instead of relying on weak or easy-to-guess passwords, the generator uses algorithms to combine uppercase and lowercase letters, and numbers, ensuring high levels of security.
+
+
+### Algorithm:
+
+1. Input desired password length from the user.
+
+2. Define character sets:
+    - Uppercase letters (A–Z)
+    - Lowercase letters (a–z)
+    - Digits (0–9)
+
+3. Combine all character sets into a single pool of characters.
+
+4. Initialize an empty string for the password.
+
+5. Repeat until the password length is reached:
+    - Randomly select a character from the pool.
+    - Append the selected character to the password.
+
+6. Ensure the generated password contains at least one uppercase, one lowercase, one digit, and one special character (if required).
+    - If not, regenerate or replace characters accordingly.
+
+7. Sample image:
+<img width="873" height="328" alt="Screenshot 2025-09-04 213920" src="https://github.com/user-attachments/assets/5a9157a4-8a28-43d3-a69b-24375dcd16e9" />
+
+
+
 
